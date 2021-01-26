@@ -23,5 +23,7 @@ See the appropriate README files for installation and run details
 Installation
 =============
 
-All examples require Java 11 and some a lombok library
+All examples require Java 11 and some - a lombok library.
+
+Module `spring-messaging` requires docker installed and running (for integration tests)
 
